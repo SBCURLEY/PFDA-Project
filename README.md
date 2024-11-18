@@ -2,7 +2,7 @@
 
 **By Sharon Curley (G00438863@atu.ie)**
 
-![Image from Airelogic.com/data-and-analytics)]((https://th.bing.com/th/id/OIP.YzAZW3rBCo2LfUtM86g9cgAAAA?pid=ImgDet&w=191&h=191&c=7))
+![Image from Airelogic.com/data-and-analytics)](https://th.bing.com/th/id/OIP.YzAZW3rBCo2LfUtM86g9cgAAAA?pid=ImgDet&w=191&h=191&c=7)
 
 This repository contains my project submission for the module Programming for Data Analytics.
 My github repository link is as follows:
