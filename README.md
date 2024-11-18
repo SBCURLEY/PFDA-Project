@@ -2,18 +2,14 @@
 
 **By Sharon Curley (G00438863@atu.ie)**
 
-![Image from Airelogic.com/data-and-analytics)](https://th.bing.com/th/id/OIP.YzAZW3rBCo2LfUtM86g9cgAAAA?pid=ImgDet&w=191&h=191&c=7)
+![Image from Airelogic.com/data-and-analytics)](./images/image_01.png)
 
-![Image from Airelogic.com/data-and-analytics)](./images/image.png)
-
-![Image from Mercy University)](https://www.mercy.edu/sites/default/files/styles/1600x700/public/2020-07/iStock-1150199386.jpg?h=6510ad6e&itok=kyPCa_AE)
+![Image from Mercy University](./images/image_02.png)
 
 This repository contains my project submission for the module Programming for Data Analytics.
 My github repository link is as follows:
 
 [SBCURLEY/pfda-project](https://github.com/SBCURLEY/pfda-project)
-
-(https://th.bing.com/th/id/OIP.YzAZW3rBCo2LfUtM86g9cgAAAA?pid=ImgDet&w=191&h=191&c=7)
 
 ## Installation
 I had to install the below to get started on this repository
@@ -61,6 +57,10 @@ Using python, import the following as per notebook
 6. 
 
 ## References
+
+1. image_01     [Airelogic.com/data-and-analytics](https://www.airelogic.com/data-and-analytics)
+2. image_02     [Mercy University](https://www.mercy.edu/sites/default/files/styles/1600x700/public/2020-07/iStock-1150199386.jpg?h=6510ad6e&itok=kyPCa_AE)
+
 
 ## About Author
 - Sharon Curley
