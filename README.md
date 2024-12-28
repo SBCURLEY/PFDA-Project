@@ -4,6 +4,8 @@
 
 ![Image from Mercy University](./images/image_02.png)
 
+###### [Image from Mercy University](https://www.mercy.edu/sites/default/files/styles/1600x700/public/2020-07/iStock-1150199386.jpg?h=6510ad6e&itok=kyPCa_AE)
+
 This repository contains my project submission for the module Programming for Data Analytics.
 My github repository link is as follows:
 
