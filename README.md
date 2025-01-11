@@ -1,4 +1,4 @@
-# My Programming for Data Analytics Project Repository
+# My Programming for Data Analytics Project
 
 **By Sharon Curley (G00438863@atu.ie)**
 
@@ -58,7 +58,7 @@ Once the above is installed, you can run the notebook for the project `rppr.ipyn
 
 4. rppr.ipynb:
 
-The project is contained in this Jupyter Notebook. The project analyses the Residential Property Price Index (RPPI) between 2010 and 2024. The RPPI is an important economic indicator that tracks changes in the prices of residential properties across Ireland. The data is collected by the Central Statistics Office (CSO) and provides insights into the trends in the housing market, showing whether property prices are rising or falling over time. This makes the RPPI a valuable tool for homebuyers, sellers, policymakers, and economists to understand and analyse the real estate market. I began my analysis on the national dataset, and then Co. Mayo followed by Castlebar for further analysis. [[3]](https://www.cso.ie/en/releasesandpublications/ep/p-rppi/residentialpropertypriceindexjuly2024/backgroundnotes/)
+The project is contained in this Jupyter Notebook. The project analyses the Residential Property Price Index (RPPI) between 2010 and 2024. The RPPI is an important economic indicator that tracks changes in the prices of residential properties across Ireland. The data is collected by the Central Statistics Office (CSO) and provides insights into the trends in the housing market, showing whether property prices are rising or falling over time. This makes the RPPI a valuable tool for homebuyers, sellers, policymakers, and economists to understand and analyse the real estate market. I began my analysis on the national dataset, followed by Co. Mayo and lastly Castlebar for further analysis. [[3]](https://www.cso.ie/en/releasesandpublications/ep/p-rppi/residentialpropertypriceindexjuly2024/backgroundnotes/)
 
 The Project notebook is structured as follows:
 1. About the Project
